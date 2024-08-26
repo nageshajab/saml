@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saml_miniOrange", "saml_miniOrange\saml_miniOrange.csproj", "{0D19C965-2691-4380-BF8B-929279E100FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D19C965-2691-4380-BF8B-929279E100FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D19C965-2691-4380-BF8B-929279E100FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D19C965-2691-4380-BF8B-929279E100FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D19C965-2691-4380-BF8B-929279E100FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C829F89-CB1C-49EF-95E8-62F18CCBB0A2}
+	EndGlobalSection
+EndGlobal
